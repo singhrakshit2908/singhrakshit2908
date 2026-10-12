@@ -1,10 +1,20 @@
 ## Hi there 👋
+:bowtie:
+My Name Is Rakshit
+I am a Computer science student in my 2nd Year of college.
+I love games and technology, and have been playing games and writing since a very young age.
 
-<!--
-**singhrakshit2908/singhrakshit2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - I'm currently working on:
+			A Linux-based System Health Monitor for my college Project, a pretty small project just for my marks but i will be expanding it to make it much more optimized for other people to use it 😊.
+			Building my own Git.
 
-Here are some ideas to get you started:
+	- I'm currently learning C++ and bash.
 
+  - I'm looking for ideas to work on and would love to collaborate with people too.
+
+  - You can reach me through my Email: singhrakshit1407@gmail.com
+
+"Don't take life too seriously. You'll never get out of it alive."
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
