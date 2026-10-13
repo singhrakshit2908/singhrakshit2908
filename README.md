@@ -1,18 +1,21 @@
-## Hi there 👋
-:bowtie:
+# Hi there 👋
 
-My Name Is Rakshit
-I am a Computer science student in my 2nd Year of college.
-I love games and technology, and have been playing games and writing since a very young age.
+I'm Rakshit, a Computer Science student interested in software development, Linux, cybersecurity, and low-level programming. I also enjoy gaming and exploring how technology works.
 
-  - I'm currently working on:
-			A Linux-based System Health Monitor for my college Project, a pretty small project just for my marks but i will be expanding it to make it much more optimized for other people to use it 😊.
-			Building my own Git.
+### 🔧 What I'm working on
+- 🐧 Developing a Linux-based System Health Monitor.
+- 🛡️ Exploring AI-based network threat detection through my cybersecurity project.
+- ⚙️ Learning C++, Bash, and Git internals.
 
-	- I'm currently learning C++ and bash.
+### 🌱 Currently learning
+- Data Structures and Algorithms in C++
+- Linux and Shell Programming
+- Software development fundamentals
 
-  - I'm looking for ideas to work on and would love to collaborate with people too.
+### 🤝 Open to
+Collaborating on interesting projects, learning from other developers, and exploring new ideas.
 
-  - You can reach me through my Email: singhrakshit1407@gmail.com
+### 📫 Contact
+Email: singhrakshit1407@gmail.com
 
-"Don't take life too seriously. You'll never get out of it alive."
+*Don't take life too seriously. You'll never get out of it alive.*
